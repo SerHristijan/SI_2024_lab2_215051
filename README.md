@@ -1,2 +1,1 @@
-# SI_2024_lab2_215051
-Hritijan Serafimovski 215051
+Hristijan Serafimovski 215051
